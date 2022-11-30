@@ -1,0 +1,151 @@
+{
+    "curriculums": [
+        {
+            "name": "Web technologies",
+            "description": "Information resource management",
+            "start_at": "2022-03-02",
+            "end_at": "2022-09-05",
+            "students":[
+                "student1@test.com",
+                "student2@test.com"
+            ],
+            "courses":[{
+                "name": "Python",
+                "description": "Fullstack Python developer",
+                "start_at": "2022-03-03",
+                "end_at": "2022-04-02",
+                "is_active": "0",
+                "students":[
+                    "student1@test.com",
+                    "student2@test.com"
+                ],
+                "teachers":[
+                    "teacher1@test.com",
+                    "teacher2@test.com"
+                ],
+                "lessons":[{
+                    "name": "Data structures",
+                    "description": "8 data structures every Python programmer needs to know",
+                    "start_at": "2022-03-03 12:15:00",
+                    "end_at": "2022-03-03 19:15:00",
+                    "attachments": [{
+                            "name": "Tests for the lesson",
+                            "type": "file",
+                            "value": "document pdf",
+                            "file": ""
+                        }]
+                }],
+                "homeworks": [{
+                    "name": "Data structures",
+                    "description": "Data output via arrays",
+                    "open_at": "2022-03-03 13:00:00",
+                    "close_at": "2022-03-10",
+                    "attachments": [{
+                            "name": "Additional tasks for homework",
+                            "type": "file",
+                            "value": "document txt",
+                            "file": ""
+                        }]
+                }]
+            }]
+        },
+        {
+            "name": "Active elements of security systems",
+            "description": "Information systems and technologies in ensuring industrial safety",
+            "start_at": "2022-02-25",
+            "end_at": "2022-04-15",
+            "students":[
+                "student1@test.com",
+                "student3@test.com"
+            ],
+            "courses":[{
+                "name": "Cyber-security specialist",
+                "description": "Threat prevention and security of IT systems",
+                "start_at": "2022-03-25",
+                "end_at": "2022-07-17",
+                "is_active": "0",
+                "students":[
+                    "student1@test.com",
+                    "student3@test.com"
+                ],
+                "teachers":[
+                    "teacher1@test.com",
+                    "teacher3@test.com"
+                ],
+                "lessons":[{
+                    "name": "Cyber-security for critical urban infrastructure",
+                    "description": "Critical urban infrastructure including energy, transportation, waste management, emergency service and communication systems are being hacked remotely by cyber attackers.",
+                    "start_at": "2022-03-05 11:30:00",
+                    "end_at": "2022-03-05 19:15:00",
+                    "attachments": [{
+                        "name": "Presentation for the lesson",
+                        "type": "external_link",
+                        "value": "document ppt",
+                        "file": ""
+                    }]
+                }],
+                "homeworks": [{
+                    "name": "Cyber-security",
+                    "description": "Compose questions you need to ask to prepare a vulnerability assessment.",
+                    "open_at": "2022-03-05",
+                    "close_at": "2022-03-11 18:00:00",
+                    "attachments": [{
+                        "name": "Homework tasks 25.Advanced endpoint security for Smb",
+                        "type": "external_link",
+                        "value": "MP4",
+                        "file": ""
+                    }]
+                }]
+            }]
+        },
+        {
+            "name": "Electronic security systems",
+            "description": "Automation in electronic security system",
+            "start_at": "2022-03-19",
+            "end_at": "2022-05-08",
+            "students":[
+                "student3@test.com",
+                "student4@test.com"
+            ],
+            "courses":[{
+                "name": "Network Engineer",
+                "description": "Configuration of equipment, routing protocols and design of secure corporate networks",
+                "start_at": "2022-03-25",
+                "end_at": "2022-06-17",
+                "is_active": "0",
+                "students":[
+                    "student3@test.com",
+                    "student4@test.com"
+                ],
+                "teachers":[
+                    "teacher3@test.com",
+                    "teacher4@test.com"
+                ],
+                "lessons":[{
+                    "name": "Network databases",
+                    "description": "Network database management systems (Network DBMSs) are based on a network data model that allows each record to have multiple parents and multiple child records.",
+                    "start_at": "2022-03-09 14:20:00",
+                    "end_at": "2022-03-09 19:15:00",
+                    "attachments": [{
+                        "name": "Fixing new material for the lesson",
+                        "type": "file",
+                        "value": "document pdf",
+                        "file": ""
+                    }]
+                }],
+                "homeworks": [{
+                    "name": "Network databases",
+                    "description": "Create a network database.",
+                    "open_at": "2022-03-09",
+                    "close_at": "2022-03-15 19:00:00",
+                    "attachments": [{
+                        "name": "Instructions for homework 32",
+                        "type": "external_link",
+                        "value": "document ppt",
+                        "file": ""
+                    }]
+                }]
+            }]
+        }
+    ]
+}

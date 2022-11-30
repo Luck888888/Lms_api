@@ -1,0 +1,13 @@
+{
+    "name": "Curriculums",
+    "alias": "curriculums",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Curriculums\\Providers\\CurriculumsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,12 @@
+{
+    "Users": true,
+    "Courses": true,
+    "Lessons": true,
+    "Files": true,
+    "Curriculums": true,
+    "Tickets": true,
+    "Homeworks": true,
+    "Surveys": true,
+    "Settings": true,
+    "Notifications": true
+}

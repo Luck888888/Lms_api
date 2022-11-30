@@ -1,0 +1,26 @@
+{
+    "data":
+    [
+        {
+            "name":        "curriculums_create",
+            "description": "Allow user to create curriculum",
+            "guard_name":  "web",
+            "roles": ["administrator"]
+        }, {
+            "name":        "curriculums_update",
+            "description": "Allow user to update curriculum",
+            "guard_name":  "web",
+            "roles": ["administrator"]
+        }, {
+            "name":        "curriculums_delete",
+            "description": "Allow user to update curriculum",
+            "guard_name":  "web",
+            "roles": ["administrator"]
+        },  {
+            "name":        "curriculums_view",
+            "description": "Allow user to view curriculum",
+            "guard_name":  "web",
+            "roles": ["administrator", "student", "teacher"]
+        }
+    ]
+}
